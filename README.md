@@ -9,4 +9,4 @@ A GPS navigation system is a GPS receiver and display current latitude, longitud
   * Cordova
   * Angular
   
-# Happy Coding
+# Happy Coding 😃
