@@ -3,7 +3,7 @@
   Building Geo Location Latitude, Longitude and Timestam in IONIC with CORDOVA Plugin using Angular.
 
 # Prerequisite
-  * NMP (Node Package Manager)
+  * NPM (Node Package Manager)
   * Nodejs
   * Ionic
   * Cordova
