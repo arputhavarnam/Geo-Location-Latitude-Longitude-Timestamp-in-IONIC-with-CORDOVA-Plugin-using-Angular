@@ -1,0 +1,7 @@
+{
+  "name": "MyGeo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
