@@ -11,5 +11,6 @@
   * Angular
   * Android Studio (SDK)
   * Firebase
+  * ATOM or Sublime or Visual studio code --> Any text editor
   
 # Happy Coding :-)
